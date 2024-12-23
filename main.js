@@ -1,3 +1,8 @@
+import 'bootstrap/dist/css/bootstrap.min.css'; // Bootstrap CSS
+import 'bootstrap'; // Bootstrap JS
+import '@fortawesome/fontawesome-free/css/all.css'; // Font Awesome CSS
+
+
 const asideExit = document.querySelector(".fa-xmark ");
 const aside = document.querySelector(".aside-container");
 const basketBtn = document.querySelector(".basket-btn");
